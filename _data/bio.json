@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Kiara Furutani",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://kiaraf.github.io/images/IMG_5423.JPG",
+    "email": "kiaraf@hawaii.edu",
+    "phone": "808-651-0487",
+    "website": "https://kiaraf.github.io",
+    "summary": "I am studying for a B.B.A. in Management Information Systems at the University of Hawaii at Manoa Shidler College of Business. I expect to graduate in Spring, 2021.",
     "location": {
-      "address": "",
+      "address": "2569 Dole St.",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -17,69 +17,22 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
-      },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "kiaraf",
+        "url": "http://github.com/kiaraf"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "creativity",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "problem solving",
       "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
       ]
     },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
-      ]
-    }
   ],
   "education": [
     {
