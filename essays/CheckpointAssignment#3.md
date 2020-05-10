@@ -19,7 +19,7 @@ labels:
 
   Upon a successful login, we plan to provide personalization by including their name. For example, at the top of the products pages as they are shopping it will say something such as: "Hello, [insert user's name], what will you be buying today?"
 
-  For this assignment, I will be working with a partner. We will have scheduled meetings as well as be in constant communcation. In order to keep consistency within the website, we will establish css styles together. Individually, we will work on the files that must be added. Then, both go over it together to fix errors, adjust things to a mutual liking.
+  For this assignment, I will be working with a partner. We will have scheduled meetings as well as be in constant communication. In order to keep consistency within the website, we will establish css styles together. Individually, we will work on the files that must be added. Then, both go over it together to fix errors, adjust things to a mutual liking.
 
   I am approaching assignment 3 differently than 2 by doing more hands on research and making sure I understand the code without as much confusion. I am also going to set aside more time to work on it and perfect it. 
  
