@@ -15,7 +15,7 @@ labels:
 
   For the data that will be used in the cart, an array will have to be used for information storage. The format may be similar to a table format, and perhaps, include images of the products they chose to add to the cart as well for extra clarity.
 
-   To help avoid access to the applicatoin when the user has not logged in, we intend to require users to log in very early on, and also add a note as they are shopping, that in order to proceed with their purchases, they must make an account with us first. Their information will be stored so that the website can recognize past users, and so that it can also be introduced to new ones. 
+   To help avoid access to the application when the user has not logged in, we intend to require users to log in very early on, and also add a note as they are shopping, that in order to proceed with their purchases, they must make an account with us first. Their information will be stored so that the website can recognize past users, and so that it can also be introduced to new ones. 
 
   Upon a successful login, we plan to provide personalization by including their name. For example, at the top of the products pages as they are shopping it will say something such as: "Hello, [insert user's name], what will you be buying today?"
 
